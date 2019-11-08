@@ -98,6 +98,7 @@ public class UserController {
         if(i > 0){
             return "success";
         }
+
         return "fail";
     }
 
